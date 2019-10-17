@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "strict": true /* Enable all strict type-checking options. */
+  },
+  "include": ["src/**/*"],
+  "exclude": ["dist"]
+}
